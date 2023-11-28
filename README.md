@@ -1,2 +1,2 @@
 # JS-TUGAS-32
-Mengambil element ID
+Mengambil element ID dengan javascript
